@@ -1,0 +1,7 @@
+baseURL = "https://klayu.github.io/t1/"
+languageCode = "en-us"
+title = "BLOG : t1"
+theme = "ananke"
+publishDir = "public"
+[permalinks]
+  posts = "/:filename"
