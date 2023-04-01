@@ -5,3 +5,11 @@ theme = "ananke"
 publishDir = "public"
 [permalinks]
   posts = "/:filename"
+
+
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
