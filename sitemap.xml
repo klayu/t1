@@ -5,49 +5,75 @@
   <url>
     <loc>https://www.mericanrx.com/</loc>
     <lastmod>2023-04-01T01:09:48-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/newone/</loc>
     <lastmod>2023-04-01T01:09:48-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/posts/</loc>
     <lastmod>2023-04-01T01:09:48-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/post1/</loc>
     <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/post2/</loc>
     <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/post3/</loc>
     <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/post4/</loc>
     <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/post5/</loc>
     <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mericanrx.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.mericanrx.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

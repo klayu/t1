@@ -76,5 +76,15 @@ Visit the Hugo website!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Est lorem ipsum dolor sit. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Scelerisque purus semper eget duis at tellus. Elit eget gravida cum sociis natoque penatibus et magnis dis.</description>
     </item>
     
+    <item>
+      <title>Contact</title>
+      <link>https://www.mericanrx.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mericanrx.com/contact/</guid>
+      <description>Reach out to us if you have any suggestions or questions about advertising or sales.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
   </channel>
 </rss>
