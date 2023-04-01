@@ -22,6 +22,7 @@ rm -rf public/*
 
 echo "Generating site"
 hugo -t "ananke"
+echo 'mericanrx.com' >> CNAME
 
 # echo "Copy README.md"
 # cp README.md public/README.md
