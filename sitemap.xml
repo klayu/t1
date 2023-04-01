@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://klayu.github.io/t1/</loc>
+    <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klayu.github.io/t1/posts/</loc>
+    <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klayu.github.io/t1/post1/</loc>
+    <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klayu.github.io/t1/post2/</loc>
+    <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klayu.github.io/t1/post3/</loc>
+    <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klayu.github.io/t1/post4/</loc>
+    <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klayu.github.io/t1/post5/</loc>
+    <lastmod>2023-04-01T00:01:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klayu.github.io/t1/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://klayu.github.io/t1/tags/</loc>
+  </url>
+  
+</urlset>

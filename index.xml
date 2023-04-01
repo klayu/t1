@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BLOG : t1</title>
+    <link>https://klayu.github.io/t1/</link>
+    <description>Recent content on BLOG : t1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:01:52 -0700</lastBuildDate>
+    
+	<atom:link href="https://klayu.github.io/t1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Samplepost</title>
+      <link>https://klayu.github.io/t1/post1/</link>
+      <pubDate>Sat, 01 Apr 2023 00:01:52 -0700</pubDate>
+      
+      <guid>https://klayu.github.io/t1/post1/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Est lorem ipsum dolor sit. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Scelerisque purus semper eget duis at tellus. Elit eget gravida cum sociis natoque penatibus et magnis dis.</description>
+    </item>
+    
+    <item>
+      <title>Samplepost</title>
+      <link>https://klayu.github.io/t1/post2/</link>
+      <pubDate>Sat, 01 Apr 2023 00:01:52 -0700</pubDate>
+      
+      <guid>https://klayu.github.io/t1/post2/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Est lorem ipsum dolor sit. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Scelerisque purus semper eget duis at tellus. Elit eget gravida cum sociis natoque penatibus et magnis dis.</description>
+    </item>
+    
+    <item>
+      <title>Samplepost</title>
+      <link>https://klayu.github.io/t1/post3/</link>
+      <pubDate>Sat, 01 Apr 2023 00:01:52 -0700</pubDate>
+      
+      <guid>https://klayu.github.io/t1/post3/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Est lorem ipsum dolor sit. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Scelerisque purus semper eget duis at tellus. Elit eget gravida cum sociis natoque penatibus et magnis dis.</description>
+    </item>
+    
+    <item>
+      <title>Samplepost</title>
+      <link>https://klayu.github.io/t1/post4/</link>
+      <pubDate>Sat, 01 Apr 2023 00:01:52 -0700</pubDate>
+      
+      <guid>https://klayu.github.io/t1/post4/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Est lorem ipsum dolor sit. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Scelerisque purus semper eget duis at tellus. Elit eget gravida cum sociis natoque penatibus et magnis dis.</description>
+    </item>
+    
+    <item>
+      <title>Samplepost</title>
+      <link>https://klayu.github.io/t1/post5/</link>
+      <pubDate>Sat, 01 Apr 2023 00:01:52 -0700</pubDate>
+      
+      <guid>https://klayu.github.io/t1/post5/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Est lorem ipsum dolor sit. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Scelerisque purus semper eget duis at tellus. Elit eget gravida cum sociis natoque penatibus et magnis dis.</description>
+    </item>
+    
+  </channel>
+</rss>
