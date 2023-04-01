@@ -6,10 +6,19 @@
     <description>Recent content in Posts on BLOG : t1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:01:52 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 01:09:48 -0700</lastBuildDate>
     
 	<atom:link href="https://klayu.github.io/t1/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Newone</title>
+      <link>https://klayu.github.io/t1/newone/</link>
+      <pubDate>Sat, 01 Apr 2023 01:09:48 -0700</pubDate>
+      
+      <guid>https://klayu.github.io/t1/newone/</guid>
+      <description>-h, &amp;ndash;help help for hugo &amp;ndash;i18n-warnings print missing translations &amp;ndash;ignoreCache ignores the cache directory &amp;ndash;ignoreVendor ignores any _vendor directory -l, &amp;ndash;layoutDir string filesystem path to layout directory &amp;ndash;log enable Logging &amp;ndash;logFile string log File path (if set, logging enabled automatically) &amp;ndash;minify minify any supported output format (HTML, XML etc.) &amp;ndash;noChmod don&amp;rsquo;t sync permission mode of files &amp;ndash;noTimes don&amp;rsquo;t sync modification time of files &amp;ndash;path-warnings print warnings on duplicate target paths etc.</description>
+    </item>
     
     <item>
       <title>Samplepost</title>
