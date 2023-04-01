@@ -27,7 +27,14 @@ hugo -t "ananke"
 # cp README.md public/README.md
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to github personal page branch"
+cd public && git add --all #&& git commit -m "Publishing to github personal page branch"
+# Commit changes.
+msg="rebuilding site `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
+fi
+git commit -m "$msg"
+
 
 # git push
 git push --set-upstream origin gh-pages
