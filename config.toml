@@ -1,6 +1,6 @@
 baseURL = "https://www.mericanrx.com"
 languageCode = "en-us"
-title = "BLOG : t1"
+title = "Merican RX"
 theme = "ananke"
 publishDir = "public"
 [permalinks]
