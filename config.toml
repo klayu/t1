@@ -3,11 +3,13 @@ languageCode = "en-us"
 title = "Merican RX"
 theme = "ananke"
 publishDir = "public"
+show_reading_time = true
 [permalinks]
   posts = "/:filename"
 
 
 enableRobotsTXT = true
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [sitemap]
   changefreq = "monthly"
