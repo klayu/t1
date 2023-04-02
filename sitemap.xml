@@ -3,13 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.mericanrx.com/</loc>
-    <lastmod>2023-04-01T01:09:48-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.mericanrx.com/newone/</loc>
     <lastmod>2023-04-01T01:09:48-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,7 +10,28 @@
   </url>
   
   <url>
+    <loc>https://www.mericanrx.com/tags/credit-cards/</loc>
+    <lastmod>2023-04-01T01:09:48-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mericanrx.com/</loc>
+    <lastmod>2023-04-01T01:09:48-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mericanrx.com/posts/</loc>
+    <lastmod>2023-04-01T01:09:48-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mericanrx.com/tags/</loc>
     <lastmod>2023-04-01T01:09:48-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -66,12 +80,6 @@
   
   <url>
     <loc>https://www.mericanrx.com/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mericanrx.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

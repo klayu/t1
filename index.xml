@@ -12,13 +12,14 @@
     
     
     <item>
-      <title>Newone</title>
+      <title>Chapter I: The Grand Hall</title>
       <link>https://www.mericanrx.com/newone/</link>
       <pubDate>Sat, 01 Apr 2023 01:09:48 -0700</pubDate>
       
       <guid>https://www.mericanrx.com/newone/</guid>
-      <description>one more two more
--h, &amp;ndash;help help for hugo &amp;ndash;i18n-warnings print missing translations &amp;ndash;ignoreCache ignores the cache directory &amp;ndash;ignoreVendor ignores any _vendor directory -l, &amp;ndash;layoutDir string filesystem path to layout directory &amp;ndash;log enable Logging &amp;ndash;logFile string log File path (if set, logging enabled automatically) &amp;ndash;minify minify any supported output format (HTML, XML etc.) &amp;ndash;noChmod don&amp;rsquo;t sync permission mode of files &amp;ndash;noTimes don&amp;rsquo;t sync modification time of files &amp;ndash;path-warnings print warnings on duplicate target paths etc.</description>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Est lorem ipsum dolor sit. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Scelerisque purus semper eget duis at tellus. Elit eget gravida cum sociis natoque penatibus et magnis dis.</description>
     </item>
     
     <item>
