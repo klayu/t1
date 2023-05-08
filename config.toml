@@ -20,7 +20,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
+      introTitle = "Hey! I'm Aria Alessi"
       introSubtitle = "Crazy gal who enjoys blogging and painting"
       introPhoto = "/ariaalessiarts_person_being_super_happy.png"
       logo = "/blist-logo.png"
