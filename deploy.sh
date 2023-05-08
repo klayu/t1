@@ -21,7 +21,10 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo -t "ananke"
+# hugo -t "ananke"
+# hugo -t "blist"
+# hugo --gc
+npm run build
 echo 'www.mericanrx.com' >> public/CNAME
 
 # echo "Copy README.md"

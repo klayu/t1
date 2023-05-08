@@ -1,6 +1,6 @@
 baseURL = "https://www.mericanrx.com"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Merixan RX"
 theme = "blist"
 publishDir = "public"
 show_reading_time = true
