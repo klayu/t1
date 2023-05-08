@@ -6,6 +6,7 @@ publishDir = "public"
 show_reading_time = true
 enableRobotsTXT = true
 disqusShortname = "relaxedincome"
+googleAnalytics = 'G-HSRFN0V5ZT'
 [permalinks]
   posts = "/:filename"
   blog = "/:filename"
@@ -20,7 +21,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
+      introSubtitle = "Crazy gal who enjoys blogging and painting"
       introPhoto = "/ariaalessiarts_person_being_super_happy.png"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
