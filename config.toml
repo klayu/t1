@@ -28,11 +28,16 @@ DefaultContentLanguageInSubdir = true
         name = "Blog"
         url = "blog"
         weight = 1
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 2
+
 
 #    [[languages.en.menu.main]]
 #        name = "About"
 #        url = "page/about/"
-#        weight = 2
+#        weight = 3
 
 #    [[languages.en.menu.main]]
 #        name = "Top Post"
@@ -78,7 +83,7 @@ DefaultContentLanguageInSubdir = true
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
-  hideOtherLanguages = false
+  hideOtherLanguages = true
 
   # Add support for Table of contents
   # Can be added to a page level also in markdown frontmatter
@@ -103,6 +108,8 @@ DefaultContentLanguageInSubdir = true
 #[[menu.main]]
 #  name = "About"
 #  url = "/about"
+
+
 
 [build]
   writeStats = true
