@@ -1,1 +1,2 @@
 deployTemplate.sh
+node_modules/*
