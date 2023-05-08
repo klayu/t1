@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Blist Multilingual Theme</title>
+    <title>Blog on Merixan RX</title>
     <link>https://www.mericanrx.com/blog/</link>
-    <description>Recent content in Blog on Blist Multilingual Theme</description>
+    <description>Recent content in Blog on Merixan RX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Apr 2023 01:09:48 -0700</lastBuildDate>
-    
-	<atom:link href="https://www.mericanrx.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Apr 2023 01:09:48 -0700</lastBuildDate><atom:link href="https://www.mericanrx.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter I: The Grand Hall</title>
       <link>https://www.mericanrx.com/this-is-a-sample-blog/</link>
@@ -17,7 +13,7 @@
       
       <guid>https://www.mericanrx.com/this-is-a-sample-blog/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
+Visit the Hugowebsite!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A scelerisque purus semper eget duis at tellus at. Est lorem ipsum dolor sit. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Scelerisque purus semper eget duis at tellus. Elit eget gravida cum sociis natoque penatibus et magnis dis.</description>
     </item>
     
@@ -63,7 +59,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.mericanrx.com/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt;
+ for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt;
+ and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
     
