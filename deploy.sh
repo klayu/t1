@@ -30,6 +30,9 @@ echo 'www.mericanrx.com' >> public/CNAME
 # echo "Copy README.md"
 # cp README.md public/README.md
 
+# needed only once in wsl
+# git config --global --add --bool push.autoSetupRemote true
+
 echo "Updating gh-pages branch"
 cd public && git add --all #&& git commit -m "Publishing to github personal page branch"
 # Commit changes.

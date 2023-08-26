@@ -7,14 +7,19 @@ show_reading_time = true
 enableRobotsTXT = true
 disqusShortname = "relaxedincome"
 googleAnalytics = 'G-HSRFN0V5ZT'
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+
+
 [permalinks]
   posts = "/:filename"
   blog = "/:filename"
   page = "/:filename"
 
 
-DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
+
+
 [languages]
   [languages.en]
     contentDir = "content/en" #English

@@ -1,2 +1,4 @@
+.git-credentials
 deployTemplate.sh
+deploy.sh
 node_modules/*
